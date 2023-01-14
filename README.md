@@ -1,1 +1,1 @@
-# Ruby-progs
+# Ruby-progs (home work)
